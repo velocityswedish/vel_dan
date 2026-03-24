@@ -389,7 +389,37 @@
       "danish": "Giv ikke op, hold ud.",
       "category": "Strength",
       "generated_at": "2026-03-24T21:01:18.734801"
+    },
+    {
+      "english": "Keep going, you're doing great.",
+      "danish": "Bliv ved, du klarer det godt.",
+      "category": "Success",
+      "generated_at": "2026-03-24T23:04:06.716344"
+    },
+    {
+      "english": "Little by little, progress is made.",
+      "danish": "Lidt efter lidt, gøres fremskridt.",
+      "category": "Success",
+      "generated_at": "2026-03-24T23:04:06.716352"
+    },
+    {
+      "english": "Your effort, it pays off.",
+      "danish": "Din indsats, den bærer frugt.",
+      "category": "Success",
+      "generated_at": "2026-03-24T23:04:06.716354"
+    },
+    {
+      "english": "You learn more, each day.",
+      "danish": "Du lærer mere, hver dag.",
+      "category": "Success",
+      "generated_at": "2026-03-24T23:04:06.716355"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "danish": "Giv ikke op, bliv ved.",
+      "category": "Success",
+      "generated_at": "2026-03-24T23:04:06.716356"
     }
   ],
-  "last_updated": "2026-03-24T21:01:18.734802"
+  "last_updated": "2026-03-24T23:04:06.716358"
 }
