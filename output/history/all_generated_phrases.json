@@ -359,7 +359,37 @@
       "danish": "Du får mig altid til at grine.",
       "category": "Friendship",
       "generated_at": "2026-03-24T19:38:10.642218"
+    },
+    {
+      "english": "You are strong, believe in yourself.",
+      "danish": "Du er stærk, tro på dig selv.",
+      "category": "Strength",
+      "generated_at": "2026-03-24T21:01:18.734789"
+    },
+    {
+      "english": "Keep going, you can do it.",
+      "danish": "Bliv ved, du kan klare det.",
+      "category": "Strength",
+      "generated_at": "2026-03-24T21:01:18.734797"
+    },
+    {
+      "english": "Your effort, is valuable.",
+      "danish": "Din indsats, er værdifuld.",
+      "category": "Strength",
+      "generated_at": "2026-03-24T21:01:18.734798"
+    },
+    {
+      "english": "Face challenges, grow stronger.",
+      "danish": "Mød udfordringer, bliv stærkere.",
+      "category": "Strength",
+      "generated_at": "2026-03-24T21:01:18.734799"
+    },
+    {
+      "english": "Don't give up, persevere.",
+      "danish": "Giv ikke op, hold ud.",
+      "category": "Strength",
+      "generated_at": "2026-03-24T21:01:18.734801"
     }
   ],
-  "last_updated": "2026-03-24T19:38:10.642220"
+  "last_updated": "2026-03-24T21:01:18.734802"
 }
