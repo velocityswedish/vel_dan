@@ -329,7 +329,37 @@
       "danish": "Sænk farten, vær til stede.",
       "category": "Balance",
       "generated_at": "2026-03-24T16:41:36.048685"
+    },
+    {
+      "english": "You're a great friend, truly.",
+      "danish": "Du er en god ven, virkelig.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:38:10.642206"
+    },
+    {
+      "english": "We have fun together, always.",
+      "danish": "Vi har det sjovt sammen, altid.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:38:10.642215"
+    },
+    {
+      "english": "Thanks for listening, friend.",
+      "danish": "Tak fordi du lytter, ven.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:38:10.642216"
+    },
+    {
+      "english": "Let's hang out soon, okay?",
+      "danish": "Lad os ses snart, okay?",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:38:10.642217"
+    },
+    {
+      "english": "You always make me laugh.",
+      "danish": "Du får mig altid til at grine.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T19:38:10.642218"
     }
   ],
-  "last_updated": "2026-03-24T16:41:36.048687"
+  "last_updated": "2026-03-24T19:38:10.642220"
 }
