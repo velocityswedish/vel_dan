@@ -449,7 +449,37 @@
       "danish": "Ro, indeni dig.",
       "category": "Happiness",
       "generated_at": "2026-03-25T05:42:25.957668"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "danish": "Tak, for alt.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T16:46:49.134449"
+    },
+    {
+      "english": "I appreciate, you.",
+      "danish": "Jeg sætter pris på, dig.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T16:46:49.134460"
+    },
+    {
+      "english": "You are, so kind.",
+      "danish": "Du er, så venlig.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T16:46:49.134462"
+    },
+    {
+      "english": "This is, wonderful.",
+      "danish": "Dette er, vidunderligt.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T16:46:49.134464"
+    },
+    {
+      "english": "I am grateful, truly.",
+      "danish": "Jeg er taknemmelig, virkelig.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T16:46:49.134465"
     }
   ],
-  "last_updated": "2026-03-25T05:42:25.957670"
+  "last_updated": "2026-03-25T16:46:49.134466"
 }
