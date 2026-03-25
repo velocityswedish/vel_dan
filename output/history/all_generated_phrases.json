@@ -479,7 +479,37 @@
       "danish": "Jeg er taknemmelig, virkelig.",
       "category": "Gratitude",
       "generated_at": "2026-03-25T16:46:49.134465"
+    },
+    {
+      "english": "Listen closely, learn often.",
+      "danish": "Lyt godt, lær meget.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-25T18:39:11.317045"
+    },
+    {
+      "english": "Patience, my friend, is key.",
+      "danish": "Tålmodighed, min ven, er vigtigst.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-25T18:39:11.317056"
+    },
+    {
+      "english": "Mistakes happen, learn from them.",
+      "danish": "Fejl sker, lær af dem.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-25T18:39:11.317058"
+    },
+    {
+      "english": "Little steps, great progress.",
+      "danish": "Små skridt, stor fremgang.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-25T18:39:11.317060"
+    },
+    {
+      "english": "Be curious, ask questions.",
+      "danish": "Vær nysgerrig, stil spørgsmål.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-25T18:39:11.317062"
     }
   ],
-  "last_updated": "2026-03-25T16:46:49.134466"
+  "last_updated": "2026-03-25T18:39:11.317065"
 }
