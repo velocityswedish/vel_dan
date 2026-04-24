@@ -2189,7 +2189,37 @@
       "danish": "Så en god tanke, se den vokse.",
       "category": "Happiness",
       "generated_at": "2026-04-24T04:15:08.860792"
+    },
+    {
+      "english": "Every word, a small step forward.",
+      "danish": "Hvert ord, et lille skridt frem.",
+      "category": "Success",
+      "generated_at": "2026-04-24T14:48:26.090650"
+    },
+    {
+      "english": "The Danish sun, will shine for you.",
+      "danish": "Den danske sol, vil skinne for dig.",
+      "category": "Success",
+      "generated_at": "2026-04-24T14:48:26.090659"
+    },
+    {
+      "english": "Listen to the rhythm, of the language.",
+      "danish": "Lyt til rytmen, af sproget.",
+      "category": "Success",
+      "generated_at": "2026-04-24T14:48:26.090661"
+    },
+    {
+      "english": "Your pronunciation, getting clearer.",
+      "danish": "Din udtale, bliver tydeligere.",
+      "category": "Success",
+      "generated_at": "2026-04-24T14:48:26.090662"
+    },
+    {
+      "english": "Understand a sentence, unlock a door.",
+      "danish": "Forstå en sætning, åben en dør.",
+      "category": "Success",
+      "generated_at": "2026-04-24T14:48:26.090663"
     }
   ],
-  "last_updated": "2026-04-24T04:15:08.860794"
+  "last_updated": "2026-04-24T14:48:26.090665"
 }
