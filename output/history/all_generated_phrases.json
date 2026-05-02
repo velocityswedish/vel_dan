@@ -3299,7 +3299,37 @@
       "danish": "Grammatikken flyder, som en flod.",
       "category": "Success",
       "generated_at": "2026-05-02T04:15:43.228969"
+    },
+    {
+      "english": "Plant your idea, water it daily.",
+      "danish": "Plant din idé, vand den dagligt.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:12:47.380859"
+    },
+    {
+      "english": "Learn a word, use it today.",
+      "danish": "Lær et ord, brug det i dag.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:12:47.380866"
+    },
+    {
+      "english": "Each lesson, a new path opens.",
+      "danish": "Hver lektion, en ny vej åbner.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:12:47.380868"
+    },
+    {
+      "english": "The quiet practice, builds the skill.",
+      "danish": "Den stille øvelse, bygger færdigheden.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:12:47.380869"
+    },
+    {
+      "english": "Listen closely, the language whispers.",
+      "danish": "Lyt godt efter, sproget hvisker.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T14:12:47.380870"
     }
   ],
-  "last_updated": "2026-05-02T04:15:43.228971"
+  "last_updated": "2026-05-02T14:12:47.380871"
 }
