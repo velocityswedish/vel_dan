@@ -3989,7 +3989,37 @@
       "danish": "Hver fejl, er en trædesten. Bliv ved med at klatre.",
       "category": "Confidence",
       "generated_at": "2026-05-06T22:39:28.158950"
+    },
+    {
+      "english": "This coffee, warms my hands.",
+      "danish": "Denne kaffe, varmer mine hænder.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T04:30:43.311009"
+    },
+    {
+      "english": "The sun, peeked through clouds.",
+      "danish": "Solen, kiggede frem bag skyer.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T04:30:43.311019"
+    },
+    {
+      "english": "A quiet moment, is a gift.",
+      "danish": "Et stille øjeblik, er en gave.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T04:30:43.311021"
+    },
+    {
+      "english": "Thank you, for this light.",
+      "danish": "Tak, for dette lys.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T04:30:43.311022"
+    },
+    {
+      "english": "Kind words, travel far.",
+      "danish": "Venskabelige ord, rejser langt.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T04:30:43.311023"
     }
   ],
-  "last_updated": "2026-05-06T22:39:28.158951"
+  "last_updated": "2026-05-07T04:30:43.311025"
 }
