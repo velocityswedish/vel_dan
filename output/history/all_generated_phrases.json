@@ -9449,7 +9449,37 @@
       "danish": "Øv din dansk, som at bage brød.",
       "category": "Purpose",
       "generated_at": "2026-06-17T16:41:27.815730"
+    },
+    {
+      "english": "Your progress, it's like a quiet stream.",
+      "danish": "Din fremgang, den er som en stille bæk.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T18:09:35.064356"
+    },
+    {
+      "english": "Today's challenge, a new door opens.",
+      "danish": "Dagens udfordring, en ny dør åbner.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T18:09:35.064365"
+    },
+    {
+      "english": "Each word learned, a tiny seed planted.",
+      "danish": "Hvert ord lært, et lille frø plantet.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T18:09:35.064366"
+    },
+    {
+      "english": "Listen to the sounds, find the rhythm.",
+      "danish": "Lyt til lydene, find rytmen.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T18:09:35.064367"
+    },
+    {
+      "english": "Mistakes are just detours, not dead ends.",
+      "danish": "Fejl er bare afstikkere, ikke blindgyder.",
+      "category": "Confidence",
+      "generated_at": "2026-06-17T18:09:35.064368"
     }
   ],
-  "last_updated": "2026-06-17T16:41:27.815731"
+  "last_updated": "2026-06-17T18:09:35.064370"
 }
