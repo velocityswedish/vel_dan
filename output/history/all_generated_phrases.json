@@ -10829,7 +10829,37 @@
       "danish": "Fejl? Bare omkørsels-skilte.",
       "category": "Confidence",
       "generated_at": "2026-06-26T17:29:51.823356"
+    },
+    {
+      "english": "This morning's light, feels like a gift.",
+      "danish": "Morgenens lys, føles som en gave.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T20:47:17.985971"
+    },
+    {
+      "english": "A quiet moment, truly enough.",
+      "danish": "Et stille øjeblik, virkelig nok.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T20:47:17.985980"
+    },
+    {
+      "english": "The taste of coffee, a warm hello.",
+      "danish": "Smagen af kaffe, en varm velkomst.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T20:47:17.985981"
+    },
+    {
+      "english": "Each breath taken, a small victory.",
+      "danish": "Hvert åndedrag taget, en lille sejr.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T20:47:17.985982"
+    },
+    {
+      "english": "The rain's rhythm, a gentle song.",
+      "danish": "Regnens rytme, en blid melodi.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-26T20:47:17.985983"
     }
   ],
-  "last_updated": "2026-06-26T17:29:51.823358"
+  "last_updated": "2026-06-26T20:47:17.985985"
 }
