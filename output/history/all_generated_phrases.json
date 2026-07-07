@@ -12419,7 +12419,37 @@
       "danish": "Tilbyd trøst, reparer en lille revne.",
       "category": "Kindness",
       "generated_at": "2026-07-07T04:43:24.840892"
+    },
+    {
+      "english": "A seedling, grows into a tree.",
+      "danish": "Et lille frø, bliver et træ.",
+      "category": "Success",
+      "generated_at": "2026-07-07T22:49:09.212843"
+    },
+    {
+      "english": "Today's fog, clears for sun.",
+      "danish": "Dagens tåge, letter for sol.",
+      "category": "Success",
+      "generated_at": "2026-07-07T22:49:09.212854"
+    },
+    {
+      "english": "Your own path, is the best.",
+      "danish": "Din egen vej, er den bedste.",
+      "category": "Success",
+      "generated_at": "2026-07-07T22:49:09.212856"
+    },
+    {
+      "english": "Even a small boat, finds its harbor.",
+      "danish": "Selv en lille båd, finder sin havn.",
+      "category": "Success",
+      "generated_at": "2026-07-07T22:49:09.212857"
+    },
+    {
+      "english": "Build your own bridge, over the stream.",
+      "danish": "Byg din egen bro, over bækken.",
+      "category": "Success",
+      "generated_at": "2026-07-07T22:49:09.212858"
     }
   ],
-  "last_updated": "2026-07-07T04:43:24.840893"
+  "last_updated": "2026-07-07T22:49:09.212860"
 }
