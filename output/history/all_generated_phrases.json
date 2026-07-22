@@ -14519,7 +14519,37 @@
       "danish": "Din ånd, et solid egetræ.",
       "category": "Strength",
       "generated_at": "2026-07-22T15:09:41.996462"
+    },
+    {
+      "english": "The seed grows, slowly.",
+      "danish": "Frøet vokser, langsomt.",
+      "category": "Success",
+      "generated_at": "2026-07-22T17:07:10.058885"
+    },
+    {
+      "english": "Each drop, fills the bucket.",
+      "danish": "Hver dråbe, fylder spanden.",
+      "category": "Success",
+      "generated_at": "2026-07-22T17:07:10.058896"
+    },
+    {
+      "english": "Listen to the wind, learn its song.",
+      "danish": "Lyt til vinden, lær dens sang.",
+      "category": "Success",
+      "generated_at": "2026-07-22T17:07:10.058897"
+    },
+    {
+      "english": "The path unwinds, ahead.",
+      "danish": "Vejen ruller, ud.",
+      "category": "Success",
+      "generated_at": "2026-07-22T17:07:10.058898"
+    },
+    {
+      "english": "Plant a thought, watch it bloom.",
+      "danish": "Plant en tanke, se den blomstre.",
+      "category": "Success",
+      "generated_at": "2026-07-22T17:07:10.058900"
     }
   ],
-  "last_updated": "2026-07-22T15:09:41.996463"
+  "last_updated": "2026-07-22T17:07:10.058901"
 }
