@@ -15449,7 +15449,37 @@
       "danish": "Jeg taler langsommere, og selvtilliden vokser.",
       "category": "Confidence",
       "generated_at": "2026-08-02T16:47:32.542486"
+    },
+    {
+      "english": "Coffee tastes better, thanks for this morning.",
+      "danish": "Kaffe smager bedre, tak for denne morgen.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T20:10:46.326887"
+    },
+    {
+      "english": "I notice quiet wins, thank you today.",
+      "danish": "Jeg lægger mærke til små sejre, tak i dag.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T20:10:46.326895"
+    },
+    {
+      "english": "Your kindness lingers, I’m grateful right now.",
+      "danish": "Din venlighed hænger ved, jeg er taknemmelig nu.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T20:10:46.326896"
+    },
+    {
+      "english": "Sunlight found my window, I’m thankful.",
+      "danish": "Sollys fandt mit vindue, jeg er taknemmelig.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T20:10:46.326898"
+    },
+    {
+      "english": "I’m grateful for clean streets, and fresh air.",
+      "danish": "Jeg er taknemmelig for rene gader, og frisk luft.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T20:10:46.326899"
     }
   ],
-  "last_updated": "2026-08-02T16:47:32.542488"
+  "last_updated": "2026-08-02T20:10:46.326901"
 }
