@@ -18809,7 +18809,37 @@
       "danish": "Jeg går fremad, selv når jeg tvivler.",
       "category": "Confidence",
       "generated_at": "2026-08-25T13:55:16.347946"
+    },
+    {
+      "english": "Wait a bit, let the day settle.",
+      "danish": "Vent lidt, lad dagen falde til ro.",
+      "category": "Patience",
+      "generated_at": "2026-08-25T16:25:57.922195"
+    },
+    {
+      "english": "Calm down, the answer arrives slowly.",
+      "danish": "Ro dig, svaret kommer i roligt tempo.",
+      "category": "Patience",
+      "generated_at": "2026-08-25T16:25:57.922205"
+    },
+    {
+      "english": "Breathe now, the schedule will catch up.",
+      "danish": "Træk vejret, planen indhenter dig.",
+      "category": "Patience",
+      "generated_at": "2026-08-25T16:25:57.922206"
+    },
+    {
+      "english": "Listen closely, progress speaks in quiet.",
+      "danish": "Lyt nøje, fremskridt taler stille.",
+      "category": "Patience",
+      "generated_at": "2026-08-25T16:25:57.922207"
+    },
+    {
+      "english": "Hold steady, rain comes after clouds.",
+      "danish": "Hold ud, regn kommer efter skyer.",
+      "category": "Patience",
+      "generated_at": "2026-08-25T16:25:57.922209"
     }
   ],
-  "last_updated": "2026-08-25T13:55:16.347949"
+  "last_updated": "2026-08-25T16:25:57.922210"
 }
