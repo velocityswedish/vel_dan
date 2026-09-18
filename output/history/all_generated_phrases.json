@@ -22439,7 +22439,37 @@
       "danish": "I dag, trækker jeg vejret, og taler tydeligt.",
       "category": "Confidence",
       "generated_at": "2026-09-18T18:44:57.529108"
+    },
+    {
+      "english": "Hi today, brighten someone’s hallway, softly.",
+      "danish": "Hej idag, lys nogens gang, stille.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T21:27:30.341866"
+    },
+    {
+      "english": "Thanks for listening, it means more than snacks.",
+      "danish": "Tak for at lytte, det betyder mere end snacks.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T21:27:30.341877"
+    },
+    {
+      "english": "Share your seat, even for one song.",
+      "danish": "Del din plads, selv kun i én sang.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T21:27:30.341878"
+    },
+    {
+      "english": "Offer help, before I ask twice.",
+      "danish": "Tilbyd hjælp, før jeg spørger to gange.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T21:27:30.341879"
+    },
+    {
+      "english": "A warm smile, can soften hard mornings.",
+      "danish": "Et varmt smil, kan blødgøre hårde morgener.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T21:27:30.341880"
     }
   ],
-  "last_updated": "2026-09-18T18:44:57.529109"
+  "last_updated": "2026-09-18T21:27:30.341881"
 }
