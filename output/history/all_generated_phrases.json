@@ -23429,7 +23429,37 @@
       "danish": "Vi bytter historier, og deler stille smil.",
       "category": "Friendship",
       "generated_at": "2026-09-25T05:37:58.878426"
+    },
+    {
+      "english": "Turn off noise, choose one clear task.",
+      "danish": "Sluk for larm, vælg én klar opgave.",
+      "category": "Success",
+      "generated_at": "2026-09-25T17:53:51.250529"
+    },
+    {
+      "english": "Tidy your desk, make room for progress.",
+      "danish": "Ryd skrivebordet, giv plads til fremskridt.",
+      "category": "Success",
+      "generated_at": "2026-09-25T17:53:51.250540"
+    },
+    {
+      "english": "Walk outside, let your thoughts breathe.",
+      "danish": "Gå udenfor, lad dine tanker ånde.",
+      "category": "Success",
+      "generated_at": "2026-09-25T17:53:51.250541"
+    },
+    {
+      "english": "Ask one question, learn a better way.",
+      "danish": "Stil ét spørgsmål, lær en bedre måde.",
+      "category": "Success",
+      "generated_at": "2026-09-25T17:53:51.250541"
+    },
+    {
+      "english": "Fix one thing, then thank yourself softly.",
+      "danish": "Ret én ting, og tak dig selv blidt.",
+      "category": "Success",
+      "generated_at": "2026-09-25T17:53:51.250542"
     }
   ],
-  "last_updated": "2026-09-25T05:37:58.878428"
+  "last_updated": "2026-09-25T17:53:51.250543"
 }
