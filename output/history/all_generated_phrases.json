@@ -23639,7 +23639,37 @@
       "danish": "Fold din plan, og begynd blidt",
       "category": "Success",
       "generated_at": "2026-09-26T18:51:19.023654"
+    },
+    {
+      "english": "Wait it out, the room will settle.",
+      "danish": "Vent det ud, rummet falder til ro.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T21:53:01.894982"
+    },
+    {
+      "english": "Slow your hands, mornings come on time.",
+      "danish": "Sænk hænderne, morgenerne kommer til tiden.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T21:53:01.894989"
+    },
+    {
+      "english": "Hold the door, traffic clears itself.",
+      "danish": "Hold døren, trafikken rydder af sig selv.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T21:53:01.894991"
+    },
+    {
+      "english": "Breathe, the answer will surface.",
+      "danish": "Træk vejret, svaret kommer til overfladen.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T21:53:01.894992"
+    },
+    {
+      "english": "Let the kettle sing, then taste.",
+      "danish": "Lad kedlen synge, så smag.",
+      "category": "Patience",
+      "generated_at": "2026-09-26T21:53:01.894993"
     }
   ],
-  "last_updated": "2026-09-26T18:51:19.023656"
+  "last_updated": "2026-09-26T21:53:01.894995"
 }
