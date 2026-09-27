@@ -23729,7 +23729,37 @@
       "danish": "Jeg går forbi tvivl, én gade ad gangen.",
       "category": "Courage",
       "generated_at": "2026-09-27T06:01:17.098812"
+    },
+    {
+      "english": "Wait, let the kettle hum first",
+      "danish": "Vent, lad kedlen synge først",
+      "category": "Patience",
+      "generated_at": "2026-09-27T17:38:32.708014"
+    },
+    {
+      "english": "Pause now, the answer comes later",
+      "danish": "Hold pause, svaret kommer senere",
+      "category": "Patience",
+      "generated_at": "2026-09-27T17:38:32.708024"
+    },
+    {
+      "english": "Breathe in, rain needs its time",
+      "danish": "Træk vejret ind, regn tager tid",
+      "category": "Patience",
+      "generated_at": "2026-09-27T17:38:32.708026"
+    },
+    {
+      "english": "Hold still, the street will clear",
+      "danish": "Stå stille, gaden bliver fri",
+      "category": "Patience",
+      "generated_at": "2026-09-27T17:38:32.708026"
+    },
+    {
+      "english": "Listen closely, trains arrive on schedule",
+      "danish": "Lyt nøje, toget kommer til tiden",
+      "category": "Patience",
+      "generated_at": "2026-09-27T17:38:32.708027"
     }
   ],
-  "last_updated": "2026-09-27T06:01:17.098813"
+  "last_updated": "2026-09-27T17:38:32.708029"
 }
