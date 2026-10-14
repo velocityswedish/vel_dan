@@ -26279,7 +26279,37 @@
       "danish": "Fejl er spor, ikke stopskilte,",
       "category": "Confidence",
       "generated_at": "2026-10-14T17:54:50.821392"
+    },
+    {
+      "english": "Wait, let the kettle cool, then try again",
+      "danish": "Vent, lad kedlen køle, så prøv igen",
+      "category": "Patience",
+      "generated_at": "2026-10-14T19:50:45.311672"
+    },
+    {
+      "english": "Slow down, the road listens, you’ll arrive",
+      "danish": "Sænk farten, vejen lytter, du når frem",
+      "category": "Patience",
+      "generated_at": "2026-10-14T19:50:45.311685"
+    },
+    {
+      "english": "Hold steady, like rain on stone, quietly",
+      "danish": "Hold ud, som regn mod sten, stille",
+      "category": "Patience",
+      "generated_at": "2026-10-14T19:50:45.311686"
+    },
+    {
+      "english": "Pause today, wisdom grows in the in-between",
+      "danish": "Hold pause i dag, visdom vokser imellem",
+      "category": "Patience",
+      "generated_at": "2026-10-14T19:50:45.311687"
+    },
+    {
+      "english": "Watch the minutes, they pass, you learn",
+      "danish": "Se minutterne, de går, du lærer",
+      "category": "Patience",
+      "generated_at": "2026-10-14T19:50:45.311688"
     }
   ],
-  "last_updated": "2026-10-14T17:54:50.821393"
+  "last_updated": "2026-10-14T19:50:45.311690"
 }
