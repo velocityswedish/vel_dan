@@ -26909,7 +26909,37 @@
       "danish": "Jeg øver, laver fejl, lærer, og prøver igen.",
       "category": "Confidence",
       "generated_at": "2026-10-18T18:22:25.352087"
+    },
+    {
+      "english": "Wait, let the kettle cool down first.",
+      "danish": "Vent, lad kedlen køle af først.",
+      "category": "Patience",
+      "generated_at": "2026-10-18T21:18:02.839909"
+    },
+    {
+      "english": "Breathe, the day will open slowly.",
+      "danish": "Træk vejret, dagen åbner sig stille.",
+      "category": "Patience",
+      "generated_at": "2026-10-18T21:18:02.839919"
+    },
+    {
+      "english": "Pause now, your answer is still traveling.",
+      "danish": "Hold pause, dit svar er stadig på vej.",
+      "category": "Patience",
+      "generated_at": "2026-10-18T21:18:02.839920"
+    },
+    {
+      "english": "Listen, even silence teaches timing.",
+      "danish": "Lyt, selv stilhed lærer rytme.",
+      "category": "Patience",
+      "generated_at": "2026-10-18T21:18:02.839922"
+    },
+    {
+      "english": "Stand steady, rain comes in its own hours.",
+      "danish": "Stå roligt, regnen kommer i sin time.",
+      "category": "Patience",
+      "generated_at": "2026-10-18T21:18:02.839923"
     }
   ],
-  "last_updated": "2026-10-18T18:22:25.352089"
+  "last_updated": "2026-10-18T21:18:02.839925"
 }
