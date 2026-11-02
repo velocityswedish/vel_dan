@@ -29129,7 +29129,37 @@
       "danish": "Jeg taler, så retter jeg, som at redigere papir",
       "category": "Confidence",
       "generated_at": "2026-11-02T22:15:37.488960"
+    },
+    {
+      "english": "Morning light, say thank you, quietly.",
+      "danish": "Morgenlys, sig tak, stille.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T23:15:45.344032"
+    },
+    {
+      "english": "My coffee smells good, I smile, instantly.",
+      "danish": "Min kaffe dufter godt, jeg smiler, straks.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T23:15:45.344045"
+    },
+    {
+      "english": "I tidy one corner, joy follows, softly.",
+      "danish": "Jeg rydder ét hjørne, glæde følger, blidt.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T23:15:45.344047"
+    },
+    {
+      "english": "A bus arrives, I breathe out, calm.",
+      "danish": "En bus kommer, jeg puster ud, rolig.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T23:15:45.344049"
+    },
+    {
+      "english": "Rain taps the window, I listen, happy.",
+      "danish": "Regnen banker på ruden, jeg lytter, glad.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T23:15:45.344050"
     }
   ],
-  "last_updated": "2026-11-02T22:15:37.488962"
+  "last_updated": "2026-11-02T23:15:45.344052"
 }
