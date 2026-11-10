@@ -30299,7 +30299,42 @@
       "danish": "Jeg bærer min plan, lidt efter lidt.",
       "category": "Confidence",
       "generated_at": "2026-11-10T07:58:21.107287"
+    },
+    {
+      "english": "I let myself rest, no guilt.",
+      "danish": "Jeg lader mig hvile, uden dårlig samvittighed.",
+      "transliteration": "yeh lader mi hvil, uden dauyli samvittighed",
+      "category": "Happiness",
+      "generated_at": "2026-11-10T09:23:40.363867"
+    },
+    {
+      "english": "My shoulders drop, the day feels lighter.",
+      "danish": "Mine skuldre falder, dagen føles lettere.",
+      "transliteration": "mine skuldrer falder, dayen folez lettre",
+      "category": "Happiness",
+      "generated_at": "2026-11-10T09:23:40.363884"
+    },
+    {
+      "english": "I smile first, then everything follows.",
+      "danish": "Jeg smiler først, så kommer alt.",
+      "transliteration": "yeh smileer forst, sa komer al",
+      "category": "Happiness",
+      "generated_at": "2026-11-10T09:23:40.363885"
+    },
+    {
+      "english": "Kind words land softly, in me.",
+      "danish": "Gode ord lander blidt, i mig.",
+      "transliteration": "goe de ord lander blidt, i mig",
+      "category": "Happiness",
+      "generated_at": "2026-11-10T09:23:40.363886"
+    },
+    {
+      "english": "I drink some water, my mood steadies.",
+      "danish": "Jeg drikker lidt vand, humøret roer sig.",
+      "transliteration": "yeh drikker lidt vand, humorets ruer sig",
+      "category": "Happiness",
+      "generated_at": "2026-11-10T09:23:40.363888"
     }
   ],
-  "last_updated": "2026-11-10T07:58:21.107289"
+  "last_updated": "2026-11-10T09:23:40.363890"
 }
