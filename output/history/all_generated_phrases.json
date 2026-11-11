@@ -30579,7 +30579,42 @@
       "transliteration": "HØ-bet SID-er med mig ved MOR-gen-mat",
       "category": "Hope",
       "generated_at": "2026-11-11T08:38:16.616240"
+    },
+    {
+      "english": "Have patience, it will work out.",
+      "danish": "Vær tålmodig, det nok skal gå.",
+      "transliteration": "Vær tohlmoodig, det nok skal gå.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:54:17.743929"
+    },
+    {
+      "english": "Just wait, and then try again.",
+      "danish": "Bare vent, og prøv så igen.",
+      "transliteration": "Bare vent, og prøv så igen.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:54:17.743940"
+    },
+    {
+      "english": "Take your time, no need to rush.",
+      "danish": "Tag dig god tid, ingen grund til at skynde.",
+      "transliteration": "Tag dig god tid, ingen grund til at skynde.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:54:17.743942"
+    },
+    {
+      "english": "Keep calm, the result comes soon.",
+      "danish": "Bliv rolig, svaret kommer snart.",
+      "transliteration": "Bliv rolig, svaret kommer snart.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:54:17.743944"
+    },
+    {
+      "english": "Let it take its time, please.",
+      "danish": "Lad det tage sin tid, tak.",
+      "transliteration": "Lad det tage sin tid, tak.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T08:54:17.743948"
     }
   ],
-  "last_updated": "2026-11-11T08:38:16.616241"
+  "last_updated": "2026-11-11T08:54:17.743950"
 }
