@@ -30999,7 +30999,42 @@
       "transliteration": "ye tilgiver, selv om det stadig svider",
       "category": "Forgiveness",
       "generated_at": "2026-11-13T20:45:31.939520"
+    },
+    {
+      "english": "You’re welcome, it’s nothing at all.",
+      "danish": "Velbekomme, det var ingenting.",
+      "transliteration": "vEL-bekOM-me, det var ing-EN-thing",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:57:12.831795"
+    },
+    {
+      "english": "I can wait, take your time.",
+      "danish": "Jeg kan godt vente, tag den med ro.",
+      "transliteration": "yeh kan godt VEn-te, tah dele med ROH",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:57:12.831806"
+    },
+    {
+      "english": "Let me help you carry that.",
+      "danish": "Skal jeg hjælpe dig med det der?",
+      "transliteration": "skal yegh HJEL-pe dig med det deR?",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:57:12.831808"
+    },
+    {
+      "english": "Would you like a little water?",
+      "danish": "Vil du have lidt vand?",
+      "transliteration": "vil du have lI-dt vannd?",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:57:12.831809"
+    },
+    {
+      "english": "Nice catch, you were really careful.",
+      "danish": "Godt fanget, du var virkelig forsigtig.",
+      "transliteration": "godt FAN-get, du var vE-rih-ly FOr-sah-ttig",
+      "category": "Kindness",
+      "generated_at": "2026-11-14T18:57:12.831813"
     }
   ],
-  "last_updated": "2026-11-13T20:45:31.939522"
+  "last_updated": "2026-11-14T18:57:12.831816"
 }
